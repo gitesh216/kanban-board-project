@@ -47,14 +47,13 @@ Simply open the `index.html` file in any browser.
 ---
 
 ## 🎨 UI Preview
-![Kanban Board Preview](https://your-image-url.com) *(Add an actual screenshot of your project here)*  
+![image](https://github.com/user-attachments/assets/3ae8436d-eedd-46f7-afc1-690712b654ab)
+
 
 ---
 
 ## 💡 Future Improvements
-🔹 Add **User Authentication** (so different users can have their own Kanban boards)  
-🔹 Implement **Due Dates & Reminders**  
-🔹 Introduce **Dark Mode** for better UI experience  
+🔹 Implement **Add more boards dynamically**  
 🔹 Enable **Task Filters & Sorting** (by priority, date, etc.)  
 
 ---
