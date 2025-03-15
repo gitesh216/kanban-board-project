@@ -47,7 +47,8 @@ Simply open the `index.html` file in any browser.
 ---
 
 ## 🎨 UI Preview
-![image](https://github.com/user-attachments/assets/3ae8436d-eedd-46f7-afc1-690712b654ab)
+![image](https://github.com/user-attachments/assets/123e3370-92a6-47d6-9fa0-e849be5584f6)
+
 
 
 ---
